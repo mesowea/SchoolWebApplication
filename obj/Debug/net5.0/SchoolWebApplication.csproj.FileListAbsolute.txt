@@ -1,0 +1,6 @@
+C:\Users\drago\source\repos\SchoolWebApplication\obj\Debug\net5.0\SchoolWebApplication.csprojAssemblyReference.cache
+C:\Users\drago\source\repos\SchoolWebApplication\obj\Debug\net5.0\SchoolWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\source\repos\SchoolWebApplication\obj\Debug\net5.0\SchoolWebApplication.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\SchoolWebApplication\obj\Debug\net5.0\SchoolWebApplication.AssemblyInfo.cs
+C:\Users\drago\source\repos\SchoolWebApplication\obj\Debug\net5.0\SchoolWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\SchoolWebApplication\obj\Debug\net5.0\SchoolWebApplication.MvcApplicationPartsAssemblyInfo.cache
