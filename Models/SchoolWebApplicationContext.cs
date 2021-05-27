@@ -12,7 +12,8 @@ namespace SchoolWebApplication.Models
         public virtual DbSet<School> Schools { get; set; }
         public virtual DbSet<Teacher> Teachers { get; set; }
         public virtual DbSet<SchoolType> SchoolTypes { get; set; }
-        public virtual DbSet<TeacherType> TeacherTypes { get; set; }
+        public virtual DbSet<TeacherSubject> TeacherSubjects { get; set; }
+        public virtual DbSet<TeacherPost> TeacherPosts { get; set; }
         public virtual DbSet<TeachersClasses> TeachersClasses { get; set; }
         public virtual DbSet<Class> Classes { get; set; }
         public virtual DbSet<Student> Students { get; set; }

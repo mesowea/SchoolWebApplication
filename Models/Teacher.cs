@@ -23,7 +23,8 @@ namespace SchoolWebApplication.Models
         [Display(Name = "Характеристика")]
         public string Characteristics { get; set; }
 
-        public virtual TeacherType TeacherType { get; set; }
+        public virtual TeacherSubject TeacherSubject{ get; set; }
+        public virtual TeacherPost TeacherPost{ get; set; }
         public virtual School School { get; set; }
         public virtual ICollection<TeachersClasses> TeachersClasses { get; set; }
 
